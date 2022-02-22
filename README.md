@@ -1,6 +1,6 @@
 # Hello  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Hem!
 
-Welcome to my profile! My name is Hemsundar Paranthaman. I'm a self thaught freelance Front-end developer who also can develop simple Back-end projects. I'm always love learning something new.
+Welcome to my profile! My name is Hemsundar Paranthaman. I'm a self taught freelance Front-end developer who also can develop simple Back-end projects. I'm always love learning something new.
 
 ### Any freelance work? **Reach out [me](mailto:hemsundar.paranthaman@outlook.com)**.
 
